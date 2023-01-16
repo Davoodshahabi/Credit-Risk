@@ -1,9 +1,10 @@
 ﻿<pre>
 
-Credit-Risk Project
+**Credit-Risk Project**
 
-The goal of the project is to predict the risk of financial failure based on historical data. Banks and financial organizations use the personal information 
-of applicants to predict the probability of future defaults of credit card borrowings. 
+The goal of the project is to predict the risk of financial failure based on historical data. Banks and 
+financial organizations use the personal information of applicants to predict the probability of future 
+defaults of credit card borrowings. 
 Banks can use credit risk prediction to decide whether to issue a credit card to the applicant.
 Data assets: for this project, we have 2 different datasets:
 	A) Application Records: all data related to the demographic information of applicants
