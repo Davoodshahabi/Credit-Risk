@@ -18,6 +18,7 @@ Developed 3 major predictive models:
 	3) CATBOOST
 The model metrics are saved in a table for a fast and clear comparison:
 <table>
+
 |NO|Model | accuracy_score | precision_score | recall_score | roc_auc_score	| f1_score|
 | :--- | :---: | :---: | :---: | :---: | :---: | ---: |
 |1|randomforest_Final|0.864091|0.888571|0.678404|0.817851|0.769394|
