@@ -26,5 +26,5 @@ The model metrics are saved in a table for a fast and clear comparison:
 
 Catboost model has a better performance to predict high-risk applicants. Since we have an imbalance of data, the recall score can be an important metric for this project. Catboost has the highest precision and recall scores.
 
-<pre>
+</pre>
 
