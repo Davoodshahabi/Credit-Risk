@@ -1,6 +1,6 @@
 ﻿<pre>
 
-**Credit-Risk Project**
+# Credit-Risk Project
 
 The goal of the project is to predict the risk of financial failure based on historical data. Banks and 
 financial organizations use the personal information of applicants to predict the probability of future 
