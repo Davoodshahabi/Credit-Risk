@@ -1,4 +1,6 @@
-﻿Credit-Risk Project
+﻿<pre>
+
+Credit-Risk Project
 
 The goal of the project is to predict the risk of financial failure based on historical data. Banks and financial organizations use the personal information of applicants to predict the probability of future defaults of credit card borrowings. Banks can use credit risk prediction to decide whether to issue a credit card to the applicant.
 Data assets: for this project, we have 2 different datasets:
@@ -21,4 +23,6 @@ The model metrics are saved in a table for a fast and clear comparison:
 2	ctboost_model_fin	                           0.867162	         0.921760	        0.658228	         0.815100	      0.768016
 
 Catboost model has a better performance to predict high-risk applicants. Since we have an imbalance of data, the recall score can be an important metric for this project. Catboost has the highest precision and recall scores.
+
+<pre>
 
