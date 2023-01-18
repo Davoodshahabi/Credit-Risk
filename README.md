@@ -2,7 +2,7 @@
 
 The goal of the project is to predict the risk of financial failure based on historical data. 
 
-Banks and financial organizations use the personal information of applicants to predict the probability of future 
+Banks and financial organizations use the historical data on customers' behaviour to predict the probability of future 
 defaults of credit card borrowings. 
 
 Banks can use credit risk prediction to decide whether to issue a credit card to the applicant.
