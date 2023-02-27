@@ -14,7 +14,9 @@ for this project, we have 2 different datasets:
 * **Credit Records**: historical credit card status of each applicant
 
 Applicant ID is a primary key to joining datasets.
+![image](https://user-images.githubusercontent.com/53322705/221466018-94cdc7c3-2168-4f93-a4ec-d63e87d59dd9.png)
 
+The dat set containes an imbalanced label:
 ## Project Phases
 The project was led in 2 major phases:
 * Exploratory Data Analytics: 1) Data Cleaning, 2) Feature engineering
