@@ -28,8 +28,8 @@ A label indicating delinquency occurrences 3 months in advance can be generated 
 <br />
 The dat set containes an imbalanced label:
 <br />
-![image](https://user-images.githubusercontent.com/53322705/221483295-0c4f0674-d678-463c-b011-9b5ae2cac6a1.png)
-
+![image](https://user-images.githubusercontent.com/53322705/221483521-9d2f9feb-4d2e-4e3d-819c-325d9839cd63.png)
+Therefore, we applied under sampling technique for the model training.
 ## Modeling
 Developed 3 major predictive models:
 * Random Forest
