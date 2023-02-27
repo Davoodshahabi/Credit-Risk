@@ -35,7 +35,7 @@ Therefore, we applied under sampling technique for the model training.
 <br>
 ## Correlations
 Prior to modeling, we ran a correlation function to evaluate correlation between features and label:
-<br \>
+
 ![image](https://user-images.githubusercontent.com/53322705/221487675-5a73bc68-3908-4e3e-9fe7-1ff63b96efe2.png)
 
 ## Modeling
