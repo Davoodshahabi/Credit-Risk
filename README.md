@@ -16,7 +16,7 @@ for this project, we have 2 different datasets:
 Applicant ID is a primary key to joining datasets.
 
 The dat set containes an imbalanced label:
-\t
+<br />
 ![image](https://user-images.githubusercontent.com/53322705/221466018-94cdc7c3-2168-4f93-a4ec-d63e87d59dd9.png)
 ## Project Phases
 The project was led in 2 major phases:
