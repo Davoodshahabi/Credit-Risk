@@ -36,7 +36,15 @@ Therefore, we applied under sampling technique for the model training.
 ## Correlations
 We performed a correlation analysis to assess the relationship between the features and the label prior to building the model:
 
-![image](https://user-images.githubusercontent.com/53322705/221487675-5a73bc68-3908-4e3e-9fe7-1ff63b96efe2.png)
+![image](https://user-images.githubusercontent.com/53322705/223012737-dc242b3e-e1c6-4124-b79e-671c3fe3c14f.png)
+
+The purpose of creating a correlation heatmap of features before developing predictive models is to understand the relationship between different features in a dataset. A correlation heatmap is a graphical representation of the correlation matrix that shows the correlation coefficients between each pair of features in a dataset. The correlation coefficient measures the strength and direction of the linear relationship between two variables. Creating a correlation heatmap before developing predictive models helps us to understand the relationship between features in a dataset and can guide us in making decisions about feature selection, model interpretation, and improving model performance.
+
+Finally, the dataset was ready for modeling. Here is a sample of processed data:
+
+![image](https://user-images.githubusercontent.com/53322705/223015216-5a4202c1-df62-4a41-976c-e5082342d22a.png)
+
+
 
 ## Modeling
 Developed 3 major predictive models:
