@@ -30,7 +30,9 @@ The dat set containes an imbalanced label:
 <br />
 ![image](https://user-images.githubusercontent.com/53322705/221483521-9d2f9feb-4d2e-4e3d-819c-325d9839cd63.png)
 <br>
-
+<br />
+Therefore, we applied under sampling technique for the model training.
+<br>
 Finally, the dataset was ready for modeling. Here is a sample of processed data:
 
 ![image](https://user-images.githubusercontent.com/53322705/223015216-5a4202c1-df62-4a41-976c-e5082342d22a.png)
@@ -39,9 +41,6 @@ Finally, the dataset was ready for modeling. Here is a sample of processed data:
 Based on the model, we may use onehot_encoding or other techniques for effective predictive model development.
 
 
-<br />
-Therefore, we applied under sampling technique for the model training.
-<br>
 ## Correlations
 We performed a correlation analysis to assess the relationship between the features and the label prior to building the model:
 
