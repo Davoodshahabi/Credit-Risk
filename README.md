@@ -45,6 +45,7 @@ Finally, the dataset was ready for modeling. Here is a sample of processed data:
 ![image](https://user-images.githubusercontent.com/53322705/223015216-5a4202c1-df62-4a41-976c-e5082342d22a.png)
 
 
+Based on the model, we may use onehot_encoding or other techniques for effective predictive model development.
 
 ## Modeling
 Developed 3 major predictive models:
