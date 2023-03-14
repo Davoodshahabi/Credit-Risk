@@ -1,4 +1,4 @@
-# Credit-Risk Project: MODIFIED
+# Credit-Risk Project: MODIFIED v2
 
 The goal of the project is to predict the risk of financial failure based on historical data. 
 
